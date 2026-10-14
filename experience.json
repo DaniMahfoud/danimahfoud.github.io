@@ -1,0 +1,56 @@
+[
+  {
+    "period": "May 2025 – Present · UAE · On-site",
+    "title": "Implementation Associate",
+    "company": "Octave",
+    "highlights": [
+      "Implement and configure Hexagon SDx / SDx2 solutions around client business processes.",
+      "Customize server-side logic with .NET and front-end features with Angular.",
+      "Configure data models, workflows, and security roles based on project scope."
+    ]
+  },
+  {
+    "period": "Jan 2024 – Apr 2025 · Dubai · On-site",
+    "title": "Scrum Master",
+    "company": "Smartr. AI",
+    "highlights": [
+      "Facilitated sprint planning, stand-ups, retrospectives, and reviews.",
+      "Removed impediments, supported self-organizing teams, and improved delivery alignment.",
+      "Connected development teams and clients through requirements, updates, and issue resolution."
+    ]
+  },
+  {
+    "period": "Jun 2022 – Apr 2025 · Dubai · On-site",
+    "title": "Software Engineer",
+    "company": "Smartr. AI",
+    "highlights": [
+      "Designed and developed logistics and online delivery software solutions.",
+      "Built Angular interfaces, React Native mobile applications, ASP.NET C# backends, and SQL Server databases.",
+      "Collaborated with cross-functional teams to deliver scalable systems for diverse user needs."
+    ]
+  },
+  {
+    "period": "May 2022 – Jun 2022 · Remote",
+    "title": "Software Engineer Intern",
+    "company": "Smartr. AI",
+    "highlights": [
+      "Developed Angular web applications, integrated C# .NET backend services, and managed SQL Server databases."
+    ]
+  },
+  {
+    "period": "Nov 2022 – Jan 2023 · Part-time · Remote",
+    "title": "Operational Technical Support",
+    "company": "Markarie",
+    "highlights": [
+      "Built Google Sheets solutions, resolved technical issues, and supported end users with clear, timely assistance."
+    ]
+  },
+  {
+    "period": "Jul 2020 – Aug 2020 · Dubai · On-site",
+    "title": "Software Development Intern",
+    "company": "Logiswift LLC",
+    "highlights": [
+      "Contributed to a web application, project briefs, project planning, and database design."
+    ]
+  }
+]

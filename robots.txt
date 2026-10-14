@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add Sitemap URL after configuring your production domain.
