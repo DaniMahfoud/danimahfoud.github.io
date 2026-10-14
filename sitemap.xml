@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace example.com with the production domain before submitting this sitemap. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://example.com/</loc></url>
-  <url><loc>https://example.com/projects/rashaqa-ai/</loc></url>
-  <url><loc>https://example.com/projects/wedding-platform/</loc></url>
-  <url><loc>https://example.com/projects/intelligent-automation/</loc></url>
+  <url><loc>https://danimahfoud.github.io/</loc></url>
+  <url><loc>https://danimahfoud.github.io/projects/rashaqa-ai/</loc></url>
+  <url><loc>https://danimahfoud.github.io/projects/wedding-platform/</loc></url>
+  <url><loc>https://danimahfoud.github.io/projects/intelligent-automation/</loc></url>
 </urlset>
