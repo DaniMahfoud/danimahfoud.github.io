@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Add Sitemap URL after configuring your production domain.
+Sitemap: https://danimahfoud.github.io/sitemap.xml
